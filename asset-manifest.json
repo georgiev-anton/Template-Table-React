@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Template-Table-React/static/css/main.a19e5013.chunk.css",
+    "main.js": "/Template-Table-React/static/js/main.cd7404e9.chunk.js",
+    "main.js.map": "/Template-Table-React/static/js/main.cd7404e9.chunk.js.map",
+    "runtime-main.js": "/Template-Table-React/static/js/runtime-main.5dc76051.js",
+    "runtime-main.js.map": "/Template-Table-React/static/js/runtime-main.5dc76051.js.map",
+    "static/js/2.64c56871.chunk.js": "/Template-Table-React/static/js/2.64c56871.chunk.js",
+    "static/js/2.64c56871.chunk.js.map": "/Template-Table-React/static/js/2.64c56871.chunk.js.map",
+    "index.html": "/Template-Table-React/index.html",
+    "precache-manifest.b0ff592238954324a05c201bcf79e5db.js": "/Template-Table-React/precache-manifest.b0ff592238954324a05c201bcf79e5db.js",
+    "service-worker.js": "/Template-Table-React/service-worker.js",
+    "static/css/main.a19e5013.chunk.css.map": "/Template-Table-React/static/css/main.a19e5013.chunk.css.map",
+    "static/js/2.64c56871.chunk.js.LICENSE.txt": "/Template-Table-React/static/js/2.64c56871.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dc76051.js",
+    "static/js/2.64c56871.chunk.js",
+    "static/css/main.a19e5013.chunk.css",
+    "static/js/main.cd7404e9.chunk.js"
+  ]
+}
